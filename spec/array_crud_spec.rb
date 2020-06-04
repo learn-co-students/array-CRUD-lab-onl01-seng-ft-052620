@@ -1,3 +1,4 @@
+
 require "spec_helper"
 
 describe "#create_an_empty_array" do
